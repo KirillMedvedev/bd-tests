@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>bd.mstest</id>
+    <version>1.0.0.2</version>
+    <title>Behavior Driven Unit Tests</title>
+    <authors>Kyrylo Medvediev</authors>
+    <owners>Kyrylo Medvediev</owners>
+    <licenseUrl>https://github.com/KirillMedvedev/bd-tests/blob/master/LICENSE</licenseUrl>
+    <projectUrl>http://bd-tests.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Convention-based approach of writing unit tests.</description>
+    <releaseNotes>The first public version.</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>bdd unit tests dsl</tags>
+  </metadata>
+</package>

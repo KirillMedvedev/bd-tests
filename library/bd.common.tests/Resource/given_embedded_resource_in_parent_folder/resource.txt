@@ -1,0 +1,1 @@
+﻿bd.common.tests.Resource.given_embedded_resource_in_parent_folder.resource.txt

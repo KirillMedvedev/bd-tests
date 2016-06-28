@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>bd.mstest</id>
-    <version>1.0.0.2</version>
+    <version>1.0.0.4</version>
     <title>Behavior Driven Unit Tests</title>
     <authors>Kyrylo Medvediev</authors>
     <owners>Kyrylo Medvediev</owners>

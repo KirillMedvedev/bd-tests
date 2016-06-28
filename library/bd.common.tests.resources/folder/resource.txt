@@ -1,0 +1,1 @@
+﻿bd.common.tests.resources.folder.resource.txt

@@ -1,0 +1,1 @@
+﻿bd.common.tests.resources.referenced_assembly_resource.txt
